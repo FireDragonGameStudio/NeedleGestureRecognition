@@ -41,6 +41,5 @@ export class Rotate extends Behaviour {
             default:
                 break;
         }
-        this.gameObject.scale.set(0.3, 0.3, 0.3);
     }
 }
