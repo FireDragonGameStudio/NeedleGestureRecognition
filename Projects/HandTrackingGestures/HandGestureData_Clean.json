@@ -1,0 +1,105 @@
+{
+    "HandGestures": [
+        {
+            "Name": "ThumbsUp",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.018610305578125486 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.006458578413736982 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.005039879883987908 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.00447149291162674 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.0048261905988940534 }
+            ]
+        },
+        {
+            "Name": "Shaka",
+            "Joints": [
+                { "JointName": "wrist", "DistanceToWrist": 0 },
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.01876174921162388 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.006251908203230849 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.005151737883938523 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.004564965223005979 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.023910303092600893 }
+            ]
+        },
+        {
+            "Name": "Fist",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.009926554170527346 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.006759805305823541 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.005447908241593247 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.0047256073060042425 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.004326761454181316 }
+            ]
+        },
+        {
+            "Name": "Rock",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.009331622793428418 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.03179886432197532 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.004835068245253815 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.003916807202220207 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.02378112313441627 }
+            ]
+        },
+        {
+            "Name": "ILY",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.018151127885812635 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.03131853970388626 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.004976137152773896 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.0038572776144762955 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.02248244686092371 }
+            ]
+        },
+        {
+            "Name": "Fox",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.017681583793152156 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.032728253027803744 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.01517050638819839 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.012318947766410071 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.024921880825980125 }
+            ]
+        },
+        {
+            "Name": "One",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.013504579845079745 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.032944926798705476 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.0061259889163949865 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.005167700091691485 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.005132573615825697 }
+            ]
+        },
+        {
+            "Name": "Two",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.013202316301738792 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.033461715335368014 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.03473227145747182 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.005615788148459311 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.006523797262226516 }
+            ]
+        },
+        {
+            "Name": "Three",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.014460158294286318 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.03361785045827759 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.03631039999592295 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.03156139778507511 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.010936379046509792 }
+            ]
+        },
+        {
+            "Name": "Four",
+            "Joints": [
+                { "JointName": "thumb-tip", "DistanceToWrist": 0.009469100146657361 },
+                { "JointName": "index-finger-tip", "DistanceToWrist": 0.03361287785788036 },
+                { "JointName": "middle-finger-tip", "DistanceToWrist": 0.03636883104447103 },
+                { "JointName": "ring-finger-tip", "DistanceToWrist": 0.03247111137838582 },
+                { "JointName": "pinky-finger-tip", "DistanceToWrist": 0.023981451456153602 }
+            ]
+        }
+    ]
+}
